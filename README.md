@@ -4,7 +4,7 @@
 
 
 # Hi there 👋
-i'm a **software engineer** student passioned about **web** and **mobile** development, constantly seeking to learn new things. 
+I'm a **software engineer** student passioned about **web** and **mobile** development, constantly seeking to learn new things. 
 # 💻 Tech Stack:
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
